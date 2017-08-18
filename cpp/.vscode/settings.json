@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "fstream": "cpp",
+    "locale": "cpp",
+    "iosfwd": "cpp",
+    "iostream": "cpp",
+    "type_traits": "cpp",
+    "iterator": "cpp",
+    "vector": "cpp",
+    "__split_buffer": "cpp",
+    "__tree": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "map": "cpp",
+    "string": "cpp",
+    "utility": "cpp",
+    "memory": "cpp"
+  }
+}

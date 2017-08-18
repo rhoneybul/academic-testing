@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/roberttimothyhoneybul/Desktop/academic-search/academicData/scoring/cpp/src/main.cpp
+iostream
+-
+utils.h
+/Users/roberttimothyhoneybul/Desktop/academic-search/academicData/scoring/cpp/src/utils.h
+vector
+-
+string
+-
+fstream
+-
+map
+-
+cstdlib
+-
+sstream
+-
+ctime
+-
+
+/Users/roberttimothyhoneybul/cplusplus/rthutils/include/utils.h
+
